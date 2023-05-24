@@ -24,8 +24,18 @@ This project aims to demonstrate a comprehensive smart home system that incorpor
 
 ![FFXU1M8I6QD3VAK LARGE](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/674fe19e-8e25-4c79-a5a1-98707079ebd2)
 
+
+![WhatsApp Image 2023-05-23 at 23 07 18](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/6032e3ec-2360-450d-818d-b3f28277a6f4)
+
 2. Smart Home Systems:
 ![image](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/3fe411f9-2666-4343-b496-dda4db343d31)
+
+![IMG-20230523-WA0022](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/1aaf897b-0a45-4392-90ad-2afd382bdb57)
+![IMG-20230523-WA0023](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/1b5931e3-943f-4bfe-875d-16197266d346)
+![IMG-20230523-WA0024](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/fab60c74-8ba6-4717-949d-3a4ad2dace76)
+![IMG-20230523-WA0025](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/92a4320e-3212-4c45-9332-93afb9532e05)
+![WhatsApp Image 2023-05-23 at 23 33 20](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/f3058b49-6748-4cc3-a19c-569c8810f271)
+
 
 
 ## Block Diagrams: 
