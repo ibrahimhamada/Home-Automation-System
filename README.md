@@ -34,3 +34,34 @@ This project aims to demonstrate a comprehensive smart home system that incorpor
 
 ![image](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/0d9f98de-ad69-4b94-a4d1-6eb68f2c8bd3)
 
+## Flowcharts: 
+### 1. Solar Tracking System
+![image](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/40731d6a-9347-495e-815c-54261ceff7b6)
+
+
+### 2. Smart Home System:
+![image](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/123bedc0-ab7a-44ae-8a65-c7dd7cd89d46)
+
+
+## Mobile Application:
+![IMG-20230523-WA0010](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/e8a3f34b-15a1-4da9-84b2-ea5093d7f0df)
+![IMG-20230523-WA0011](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/8de95d6f-64c7-4bb0-a5ba-f2a637ccfb3f)
+![IMG-20230523-WA0005](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/24aa840e-82ee-488c-9c5a-340b5ed99a87)
+![IMG-20230523-WA0006](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/63303beb-85a6-4e3b-93ec-0606e9492f28)
+![IMG-20230523-WA0008](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/ea44aea5-14df-4782-b980-76637af61a81)
+
+## Simulation:
+### 1. Solar Tracking System
+
+https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/c8055c01-5732-468f-9598-c89dcfc05fa6
+
+
+### 2. Smart Home System:
+
+https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/bd3e761f-59a9-4623-bee6-039b85ebe2a6
+
+
+### 3. Irrigation System
+
+https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/f12653ee-08ba-4eeb-91c6-8b4d1eddc76a
+
