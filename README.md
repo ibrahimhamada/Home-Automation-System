@@ -15,3 +15,13 @@ T2. he solar tracker optimizes the positioning of solar panels by monitoring lig
 6. The irrigation system effectively manages soil moisture levels through a sensor-driven water pump. 
 7. With a user-friendly interface and seamless integration of subsystems, this smart home system offers convenience and efficiency for an enhanced living experience.
 
+## Block Diagrams: 
+
+### 1. Solar Tracking System
+
+![image](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/1b578d9a-be82-4c17-a6f4-2a48b6552509)
+
+### 2. Smart Home System:
+
+![image](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/0d9f98de-ad69-4b94-a4d1-6eb68f2c8bd3)
+
