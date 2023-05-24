@@ -44,10 +44,8 @@ This project aims to demonstrate a comprehensive smart home system that incorpor
 
 
 ## Mobile Application:
-![IMG-20230523-WA0005](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/24aa840e-82ee-488c-9c5a-340b5ed99a87)
-![IMG-20230523-WA0006](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/63303beb-85a6-4e3b-93ec-0606e9492f28)
-![IMG-20230523-WA0010](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/e8a3f34b-15a1-4da9-84b2-ea5093d7f0df)
-![IMG-20230523-WA0011](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/8de95d6f-64c7-4bb0-a5ba-f2a637ccfb3f)
+![IMG-20230523-WA0005](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/24aa840e-82ee-488c-9c5a-340b5ed99a87) ![IMG-20230523-WA0006](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/63303beb-85a6-4e3b-93ec-0606e9492f28)
+![IMG-20230523-WA0010](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/e8a3f34b-15a1-4da9-84b2-ea5093d7f0df) ![IMG-20230523-WA0011](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/8de95d6f-64c7-4bb0-a5ba-f2a637ccfb3f)
 ![IMG-20230523-WA0008](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/ea44aea5-14df-4782-b980-76637af61a81)
 
 ## Simulation:
