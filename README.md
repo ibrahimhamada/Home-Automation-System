@@ -19,8 +19,10 @@ This project aims to demonstrate a comprehensive smart home system that incorpor
 ## Hardware Components:
 1. Solar Tracking System:
 ![image](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/e599ac5f-1acf-47b3-9439-4df56c14e7b1)
-![FFXU1M8I6QD3VAK LARGE](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/674fe19e-8e25-4c79-a5a1-98707079ebd2)
+
 ![F7VQW8VI6QD3OT2 LARGE](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/ac6c2e4d-874d-4757-9ede-0174a516735f)
+
+![FFXU1M8I6QD3VAK LARGE](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/674fe19e-8e25-4c79-a5a1-98707079ebd2)
 
 2. Smart Home Systems:
 ![image](https://github.com/ibrahimhamada/Home-Automation-System/assets/58476343/3fe411f9-2666-4343-b496-dda4db343d31)
